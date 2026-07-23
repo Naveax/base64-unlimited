@@ -42,4 +42,4 @@ Feel free to modify, share, or contribute!
 
 ---
 
-Made with ❤️ by [omersevik](https://github.com/naveax)
+Made with ❤️ by [naveax](https://github.com/naveax)
